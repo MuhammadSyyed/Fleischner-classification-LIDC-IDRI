@@ -3,6 +3,3 @@ dataset/
 models/
 *.pth
 *.pt
-models/
-*.pth
-*.pt
